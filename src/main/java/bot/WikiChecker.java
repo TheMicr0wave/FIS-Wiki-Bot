@@ -32,6 +32,7 @@ public class WikiChecker {
         triggerValues.put("INFECT", 1);
         triggerValues.put("INFECTION", 1);
         triggerValues.put("INFESTED", 1);
+        triggerValues.put("INFESTATION", 1);
         triggerValues.put("CRAFT", 1);
         triggerValues.put("DEFENSE", 1);
         triggerValues.put("MYCELIUM", 1);
@@ -92,6 +93,7 @@ public class WikiChecker {
         triggerValues.put("PROTO", 1);          // Organoids
         triggerValues.put("HIVEMIND", 1);
         triggerValues.put("MOUND", 1);
+        triggerValues.put("MOUNDS", 1);
         triggerValues.put("UMARMER", 1);
         triggerValues.put("USURPER", 1);
         triggerValues.put("VIGIL", 1);
@@ -179,6 +181,9 @@ public class WikiChecker {
         nonDescriptTrigger.put("TO", 1);
         nonDescriptTrigger.put("MESSAGE", 1);
         nonDescriptTrigger.put("CHAT", 1);
+        nonDescriptTrigger.put("AGE", 1);
+        nonDescriptTrigger.put("POTION", 1);
+        nonDescriptTrigger.put("POTIONS", 1);
         nonDescriptTrigger.put("NIGHTMARE", -5);
         nonDescriptTrigger.put("INQUISITION", -5);
         nonDescriptTrigger.put("BUT", -5);
