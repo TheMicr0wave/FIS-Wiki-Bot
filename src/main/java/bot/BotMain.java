@@ -1,3 +1,14 @@
+/**
+ *  Fungal Infection: Spore wiki bot
+ *  Developed by TheMicrowave in collaboration with slasherwolf_ et al.
+ *
+ *  Version: 0.3.4.3
+ *  Last updated [mm/dd/yyyy]: 01/15/2026
+ *
+ *  Changes:
+ *  Updated thresholdValue() method to reduce the trigger threshold in messages with a shorter length
+ */
+
 package bot;
 
 import net.dv8tion.jda.api.JDABuilder;

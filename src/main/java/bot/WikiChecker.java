@@ -174,6 +174,7 @@ public class WikiChecker {
         nonDescriptTrigger.put("WHAT", 1);
         nonDescriptTrigger.put("WHERE", 1);
         nonDescriptTrigger.put("DOES", 1);
+        nonDescriptTrigger.put("CAN", 1);
         nonDescriptTrigger.put("IS", 1);
         nonDescriptTrigger.put("TO", 1);
         nonDescriptTrigger.put("MESSAGE", 1);
@@ -228,6 +229,6 @@ public class WikiChecker {
     }
 
     public double thresholdValue(double x) {
-        return (3.0 / (x + 1.4) + 0.1);
+        return (3.0 / (x + 1.6) + 0.1);
     }
 }
