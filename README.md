@@ -1,5 +1,7 @@
 # Fungal Infection: Spore wiki bot
+
 Version: 0.3.4.4
+
 Last updated [mm/dd/yyyy]: 01/24/2026
 
 Developed by TheMicrowave in collaboration with slasherwolf_ et al.
