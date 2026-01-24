@@ -175,6 +175,7 @@ public class WikiChecker {
         nonDescriptTrigger.put("HOW", 1);
         nonDescriptTrigger.put("WHAT", 1);
         nonDescriptTrigger.put("WHERE", 1);
+        nonDescriptTrigger.put("WHY", 1);
         nonDescriptTrigger.put("DOES", 1);
         nonDescriptTrigger.put("CAN", 1);
         nonDescriptTrigger.put("IS", 1);
@@ -184,6 +185,7 @@ public class WikiChecker {
         nonDescriptTrigger.put("AGE", 1);
         nonDescriptTrigger.put("POTION", 1);
         nonDescriptTrigger.put("POTIONS", 1);
+        nonDescriptTrigger.put("BREAK", 1);
         nonDescriptTrigger.put("NIGHTMARE", -5);
         nonDescriptTrigger.put("INQUISITION", -5);
         nonDescriptTrigger.put("BUT", -5);
