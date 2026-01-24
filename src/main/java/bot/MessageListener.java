@@ -97,7 +97,7 @@ public class MessageListener extends ListenerAdapter {
         if (content.equalsIgnoreCase("!about")) {
             event.getMessage()
                     .reply("# About this bot!" +
-                                "\n-# v0.3.4.3" +
+                                "\n-# v0.3.4.4" +
                                 "\n*Developed by TheMicrowave in collaboration with slasherwolf_ et al.*" +
                                 "\n\n## How do I work?" +
                                 "\nI monitor messages in the channel designated by !setchannel for their relevance to to the Fungal Infection: Spore Wiki." +
